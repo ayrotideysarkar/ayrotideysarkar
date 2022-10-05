@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayroti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayroti" height="30" width="40" /></a>
+<a href="https://mobile.twitter.com/ayroti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayroti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayroti-dey-sarkar-4ba987148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayroti-dey-sarkar-4ba987148/" height="30" width="40" /></a>
 <a href="https://fb.com/ayrotideysarkar.sunshine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayrotideysarkar.sunshine/" height="30" width="40" /></a>
 <a href="https://instagram.com/ayroti_deysarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayroti_deysarkar/" height="30" width="40" /></a>
