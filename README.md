@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/ayroti" target="blank"><img src="https://img.shields.io/twitter/follow/ayroti?logo=twitter&style=for-the-badge" alt="@ayroti" /></a> </p>
 
-- 🌱 I’m currently learning **python Advance**
+- 🌱 I’m currently learning **About Everything**
+-💬Ask me about **Kdrama, Cdrama, Anime**
 
 - 📫 How to reach me **ayroti.techie@gmail.com**
 
