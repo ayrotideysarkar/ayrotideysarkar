@@ -13,7 +13,7 @@
 - 📫 How to reach me **ayroti.techie@gmail.com**
 
 - ⚡ Fun fact **I think I am an Extremist**
-[![@ayrotideysarkar's Holopin board](https://holopin.io/api/user/board?user=ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
+[![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayroti?t=VX9RvbMSBiCwP6ukEzCydQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayroti" height="30" width="40" /></a>
