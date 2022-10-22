@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **About Everything**
 - 💬Ask me about **Kdrama, Cdrama, Anime**
 - 📫 How to reach me **ayroti.techie@gmail.com**
-
 - ⚡ Fun fact **I think I am an Extremist**
+![Visitor Count](https://profile-counter.glitch.me/ayrotideysarkar/count.svg)
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
