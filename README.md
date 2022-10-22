@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayroti" target="blank"><img src="https://img.shields.io/twitter/follow/ayroti?logo=twitter&style=for-the-badge" alt="@ayroti" /></a> </p>
 
-- 🌱 I’m currently learning **About Everything**
-- 💬 Ask me about **Kdrama, Cdrama, Anime**
-- 👩‍🎨 I'm an **Artist** and my official quote account is [instagram.com/snowflake_diaries(https://www.instagram.com/snowflake_diaries/) 
-- 📫 Reach me **ayroti.techie@gmail.com**
-- ⚡ Fun fact **I think I am an Extremist**
+- 🌱 I’m currently learning **About Everything**🤣🐰
+- 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
+- 👩‍🎨 I'm an **Artist** 🐥
+- 📫 Reach me **ayroti.techie@gmail.com** ✉️
+- ⚡ Fun fact **I think I am an Extremist**💫
 
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
 <h3 align="left">Connect with me:</h3>
