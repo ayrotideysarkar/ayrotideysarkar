@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning **About Everything**
 - 💬 Ask me about **Kdrama, Cdrama, Anime**
-- 👩‍🎨 I'm an **Artist**
-- 📫 How to reach me **ayroti.techie@gmail.com**
+- 👩‍🎨 I'm an **Artist** and my official quote account is [https://instagram.com/snowflake_diaries?igshid=YmMyMTA2M2Y= ]
+- 📫 Reach me **ayroti.techie@gmail.com**
 - ⚡ Fun fact **I think I am an Extremist**
 
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
