@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **About Everything**
 - 💬 Ask me about **Kdrama, Cdrama, Anime**
-- 👩‍🎨 I'm an **Artist** and my official quote account is [https://instagram.com/snowflake_diaries?igshid=YmMyMTA2M2Y= ]
+- 👩‍🎨 I'm an **Artist** and my official quote account is [instagram.com/snowflake_diaries(https://www.instagram.com/snowflake_diaries/) 
 - 📫 Reach me **ayroti.techie@gmail.com**
 - ⚡ Fun fact **I think I am an Extremist**
 
