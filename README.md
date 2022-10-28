@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **About Everything**🤣🐰
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
-- 📫 Reach me **ayroti.techie@gmail.com** ✉️
+- 📫 Reach me **ayrotideysarkar.techie@gmail.com** ✉️
 - ⚡ Fun fact **I think I am an Extremist**💫
 
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
@@ -30,3 +30,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&show_icons=true&locale=en" alt="ayrotideysarkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&" alt="ayrotideysarkar" /></p>
+
+<h4 align=center> Let's Connect </h4>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/ayroti" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/ayroti_deysarkar/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/ayroti-dey-sarkar-4ba987148/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ayrotideysarkar.techie@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
