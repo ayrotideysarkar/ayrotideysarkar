@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/705/826/351/digital-digital-art-artwork-illustration-ricodz-hd-wallpaper-preview.jpg))](https://ayrotideysarkar.io)
+[![MasterHead](https://www.peakpx.com/en/hd-wallpaper-desktop-akdbn))](https://ayrotideysarkar.io)
 <h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar</h1>
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
