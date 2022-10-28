@@ -31,6 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&" alt="ayrotideysarkar" /></p>
 
+<details> 
+	<summary>Profile Stats</summary>
+	<p align=center><img align="center" src="https://github.com/ayrotideysarkar/ayrotideysarkar/blob/master/github-user-stats.svg" /></p>
+</details>
+
 <h4 align=center> Let's Connect </h4>
 
 <p align="center">
