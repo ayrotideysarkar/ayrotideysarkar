@@ -5,7 +5,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayrotideysarkar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ayroti" target="blank"><img src="https://img.shields.io/twitter/follow/ayroti?logo=twitter&style=for-the-badge" alt="@ayroti" /></a> </p>
 
 - 🌱 I’m currently learning **About Everything**🤣🐰
