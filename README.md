@@ -1,5 +1,5 @@
 [![MasterHead](https://images.pling.com/img/00/00/61/26/90/1563536/b3576ec387b8697925d3372d80da2bc34f197d350e6783e8fe58de89614acd97d19d.jpg)](https://ayrotideysarkar.io)
-<h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar 👒🧿🍀</h1>
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
