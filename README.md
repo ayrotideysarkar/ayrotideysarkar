@@ -24,10 +24,17 @@
 
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&show_icons=true&locale=en" alt="ayrotideysarkar" /></p>
+<p align="left">
+    <a href="https://github.com/ayrotideysarkar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayroti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&theme=black-ice&hide_border=false&stroke=0000&background=330D48"/>
+        
+        
+ <a href="https://github.com/ayrotideysarkar/github-readme-activity-graph"><img alt="Ayroti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayrotideysarkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+        
+        
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&" alt="ayrotideysarkar" /></p>
 
 ---
 
@@ -39,3 +46,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/ayroti-dey-sarkar-4ba987148/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ayrotideysarkar.techie@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+
