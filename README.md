@@ -47,4 +47,7 @@
 &nbsp; <a href="mailto:ayrotideysarkar.techie@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+## snake eating my contribution graph
+
+![snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.gif)
 
