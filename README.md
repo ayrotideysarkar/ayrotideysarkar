@@ -1,5 +1,6 @@
- [![MasterHead](https://i.giphy.com/media/h5USINMRawDok/giphy.webp)](https://ayrotideysarkar.io)
- ![original](https://user-images.githubusercontent.com/76876452/201112311-809071e5-3780-4de3-b95c-770f7180d951.gif)
+
+ https://user-images.githubusercontent.com/76876452/201120974-913593c3-c8d5-4abe-8a6e-974f7b3b1532.mp4
+ 
 <h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar 👒🧿🍀</h1>
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
