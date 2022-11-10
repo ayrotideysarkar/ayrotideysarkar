@@ -1,8 +1,8 @@
 [![MasterHead](https://images.pling.com/img/00/00/61/26/90/1563536/b3576ec387b8697925d3372d80da2bc34f197d350e6783e8fe58de89614acd97d19d.jpg)](https://ayrotideysarkar.io)
 <h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar 👒🧿🍀</h1>
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
-<img align="right" alt="coding" width="400" src="ayrotideysarkar/images/">
 
+.. image:: ../images/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayrotideysarkar" /> </p>
 <p align="left"> <a href="https://twitter.com/ayroti" target="blank"><img src="https://img.shields.io/twitter/follow/ayroti?logo=twitter&style=for-the-badge" alt="@ayroti" /></a> </p>
