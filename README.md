@@ -1,4 +1,5 @@
  [![MasterHead](https://i.giphy.com/media/h5USINMRawDok/giphy.webp)](https://ayrotideysarkar.io)
+ ![28b077b8c8e83b8101a15228f39cb94f](https://user-images.githubusercontent.com/76876452/201111402-a9ff7ade-887d-49d7-9012-fd95e9c3e087.gif)
 
 <h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar 👒🧿🍀</h1>
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
