@@ -1,4 +1,4 @@
- [![MasterHead](https://images.pling.com/img/00/00/61/26/90/1563536/b3576ec387b8697925d3372d80da2bc34f197d350e6783e8fe58de89614acd97d19d.jpg)](https://ayrotideysarkar.io)
+ [![MasterHead](https://i.giphy.com/media/h5USINMRawDok/giphy.webp)](https://ayrotideysarkar.io)
 
 <h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar 👒🧿🍀</h1>
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
