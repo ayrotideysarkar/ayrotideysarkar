@@ -1,23 +1,28 @@
 
 ![papers co-ni98-aurora-star-night-sky-space-blue-mountain-flare-35-3840x2160-4k-wallpaper](https://user-images.githubusercontent.com/76876452/201136791-baa11c7f-9124-405e-bffe-d2fb4243fd46.jpg)
-
-
  
 <h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar 👒🧿🍀</h1>
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
+<img align="right" alt="coding" width="300" src=https://user-images.githubusercontent.com/76876452/201290878-01cfb000-bec8-4116-b478-e67710c3622e.png>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayrotideysarkar" /> </p>
 <p align="left"> <a href="https://twitter.com/ayroti" target="blank"><img src="https://img.shields.io/twitter/follow/ayroti?logo=twitter&style=for-the-badge" alt="@ayroti" /></a> </p>
 
+
+
 - 🌱 I’m currently learning **About Everything**🤣🐰
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
-- 📫 Reach me **ayrotideysarkar.techie@gmail.com** ✉️
+- 📫 Reach me **ayrotideysarkar.techie@gmail.com** ✉️                          
 - ⚡ Fun fact **I think I am an Extremist**💫
 
+ 
+
+
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
