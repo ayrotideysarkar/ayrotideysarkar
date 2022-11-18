@@ -20,7 +20,6 @@
 
  
 
-
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
  
 
