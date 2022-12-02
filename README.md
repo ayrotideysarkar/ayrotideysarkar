@@ -58,6 +58,5 @@
 
 ## snake eating my contribution graph
 
-![mishmanners snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.gif)
 
