@@ -1,7 +1,9 @@
 
 ![papers co-ni98-aurora-star-night-sky-space-blue-mountain-flare-35-3840x2160-4k-wallpaper](https://user-images.githubusercontent.com/76876452/201136791-baa11c7f-9124-405e-bffe-d2fb4243fd46.jpg)
  
-<h1 align="center">Hi 👋, I'm Ayroti Dey Sarkar 👒🧿🍀</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <h3 align="center">A passionate Girl techie from India and New to Opensource</h3>
 <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
