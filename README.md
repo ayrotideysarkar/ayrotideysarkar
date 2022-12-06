@@ -23,8 +23,6 @@
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/@ayrotid) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@ayroti) 
  
- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=70397f" /></div>  
-
 
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
  
@@ -46,6 +44,8 @@
 <p align="left">
     <a href="https://github.com/ayrotideysarkar/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayroti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&theme=black-ice&hide_border=false&stroke=0000&background=330D48"/>
+         
+<img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48">
  
      
 [![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=dracula)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
@@ -54,11 +54,13 @@
      
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+     
+  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=70397f" /></div>  
+
 
      
      
-     
-<img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48">
+
 
 
      
