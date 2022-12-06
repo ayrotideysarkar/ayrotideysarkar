@@ -35,9 +35,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayroti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&theme=black-ice&hide_border=false&stroke=0000&background=330D48"/>
         
         
- <a href="https://github.com/ayrotideysarkar/github-readme-activity-graph"><img alt="Ayroti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayrotideysarkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
      
-[![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
+[![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=dracula)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
      
      
      
