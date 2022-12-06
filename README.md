@@ -55,27 +55,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
      
-  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=70397f" /></div>  
-
-
-     
+  <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=70397f" /></div>  
      
 
 
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      
      
      
