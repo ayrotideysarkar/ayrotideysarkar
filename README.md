@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I think I am an Extremist**💫
 
 
-## 🌐 Let's Connect 🫱🏻‍🫲🏻😁:
+## 🌐 Let's Connect🫱🏻‍🫲🏻😁:
  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ayroti#7394)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayroti-dey-sarkar-4ba987148/) 
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/@ayrotid) 
