@@ -16,6 +16,7 @@
 - 📫 Reach me **ayrotideysarkar.techie@gmail.com** ✉️                          
 - ⚡ Fun fact **I think I am an Extremist**💫
 
+
 ## 🌐 Let's Connect 🫱🏻‍🫲🏻😁:
  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ayroti#7394)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayroti-dey-sarkar-4ba987148/) 
@@ -34,6 +35,12 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+# 👩‍💻 Coding Platform:
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
+[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://app.datacamp.com/profile/ayroti123)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48">
 
