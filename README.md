@@ -3,7 +3,7 @@
 
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
 
-### <div align="center">I'm Ayroti, A passionate Girl techie 👩‍💻 from India and New to Opensource  🚀</div> 
+### <div align="center">I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀</div> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayrotideysarkar" /> </p>
 <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
