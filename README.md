@@ -37,6 +37,8 @@
         
  <a href="https://github.com/ayrotideysarkar/github-readme-activity-graph"><img alt="Ayroti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayrotideysarkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
      
+[![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
+     
      
      
 ### ✍️ Random Dev Quote
