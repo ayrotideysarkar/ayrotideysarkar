@@ -6,7 +6,7 @@
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=24&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=26&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
 I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀
  
