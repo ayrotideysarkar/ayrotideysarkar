@@ -1,7 +1,14 @@
 
 ![papers co-ni98-aurora-star-night-sky-space-blue-mountain-flare-35-3840x2160-4k-wallpaper](https://user-images.githubusercontent.com/76876452/201136791-baa11c7f-9124-405e-bffe-d2fb4243fd46.jpg)
 
+
+
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=24&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
+
+Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
 
 ### <div align="center">I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀</div> 
  
@@ -48,7 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48">
  
      
-[![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=dracula)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
+[![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=nightowl)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
      
      
      
