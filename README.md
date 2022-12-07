@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=24&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
-Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
-
 ### <div align="center">I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀</div> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayrotideysarkar" /> </p>
