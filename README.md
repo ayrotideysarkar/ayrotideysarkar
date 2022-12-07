@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=24&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
-### <div align="center">I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀</div> 
+I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayrotideysarkar" /> </p>
 <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
