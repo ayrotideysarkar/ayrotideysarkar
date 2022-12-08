@@ -10,7 +10,12 @@
 
 I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayrotideysarkar" /> </p>
+ ---
+[![](https://visitcount.itsvg.in/api?id=ayrotideysarkar&icon=7&color=5)](https://visitcount.itsvg.in)
+
+
+ 
+
 <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <img align="right" alt="coding" width="300" src=https://user-images.githubusercontent.com/76876452/201290878-01cfb000-bec8-4116-b478-e67710c3622e.png>
