@@ -10,7 +10,6 @@
 
 I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀
  
- ---
 [![](https://visitcount.itsvg.in/api?id=ayrotideysarkar&icon=7&color=5)](https://visitcount.itsvg.in)
 
 
