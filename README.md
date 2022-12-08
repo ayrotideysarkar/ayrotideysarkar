@@ -57,6 +57,8 @@ I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensourc
          
 <img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48">
  
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrotideysarkar&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
      
 [![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=nightowl)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
      
