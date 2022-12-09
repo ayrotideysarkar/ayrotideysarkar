@@ -10,7 +10,7 @@
 
 **I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀**
  
-[![](https://visitcount.itsvg.in/api?id=ayrotideysarkar&icon=7&color=5)](https://visitcount.itsvg.in)
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p>
 
 
  
@@ -63,8 +63,15 @@
      
      
      
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+     
+     
+### 🤣 Random Jokes :
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
+     
+     
      
   <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=70397f" /></div>  
      
