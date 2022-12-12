@@ -1,5 +1,10 @@
 
-![papers co-ni98-aurora-star-night-sky-space-blue-mountain-flare-35-3840x2160-4k-wallpaper](https://user-images.githubusercontent.com/76876452/201136791-baa11c7f-9124-405e-bffe-d2fb4243fd46.jpg)
+![wallpaperflare com_wallpaper (2) (1)](https://user-images.githubusercontent.com/76876452/206988610-614a04a9-da0d-4725-8bb3-ef7fab9cb7d6.jpg)
+
+
+
+
+
 
 
 
@@ -77,6 +82,12 @@
 ### 🎧 Music Time  :
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+     
+     
+     
+     
+     
+![wallpaperflare com_wallpaper (1) (2)](https://user-images.githubusercontent.com/76876452/206982404-d93f83b4-b133-4016-bf82-bb3bfc9a435f.jpg)
      
   
      
