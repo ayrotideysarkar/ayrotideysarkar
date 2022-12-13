@@ -18,7 +18,8 @@
 - 🌱 I’m currently learning **About Everything**🤣🐰
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
-- 📫 Reach me **ayrotideysarkar.techie@gmail.com** ✉️                          
+- 📫 Reach me 
+  **ayrotideysarkar.techie@gmail.com**                          
 - ⚡ Fun fact **I think I am an Extremist**💫
 
 
