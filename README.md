@@ -1,6 +1,8 @@
 
 ![wallpaperflare com_wallpaper (2) (1)](https://user-images.githubusercontent.com/76876452/206988610-614a04a9-da0d-4725-8bb3-ef7fab9cb7d6.jpg)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76876452/207582535-282075e4-545c-486c-b468-d3130933352f.gif)
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76876452/207582535-282075e4-545c-486c-b468-d3130933352f.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=26&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
