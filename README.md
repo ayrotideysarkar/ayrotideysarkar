@@ -85,9 +85,8 @@
 
 
 
-![snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.gif)
-     
-  
+![ayrotideysarkars snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.svg)
+
      
    
      
