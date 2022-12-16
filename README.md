@@ -80,7 +80,7 @@
      
      
      
-**Snake eating my contribution:**
+# 🐍 Coding Platform:
      
 ![ayrotideysarkars snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.svg)
 
