@@ -80,12 +80,11 @@
      
      
      
+**Snake eating my contribution:**
      
-![wallpaperflare com_wallpaper (1) (2)](https://user-images.githubusercontent.com/76876452/206982404-d93f83b4-b133-4016-bf82-bb3bfc9a435f.jpg)
-
-
-
 ![ayrotideysarkars snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.svg)
+
+![wallpaperflare com_wallpaper (1) (2)](https://user-images.githubusercontent.com/76876452/206982404-d93f83b4-b133-4016-bf82-bb3bfc9a435f.jpg)
 
      
    
