@@ -72,10 +72,14 @@
   
  
      
+  
+
+     
      
 ### 🎧 Music Time  :
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)![WhatsApp Video 2022-12-17 at 12 41 21 AM](https://user-images.githubusercontent.com/76876452/208225543-0c48051f-2816-44d6-9232-f1a396c5e793.gif)
+
      
      
      
@@ -84,7 +88,6 @@
      
 ![ayrotideysarkars snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.svg)
 
-![wallpaperflare com_wallpaper (1) (2)](https://user-images.githubusercontent.com/76876452/206982404-d93f83b4-b133-4016-bf82-bb3bfc9a435f.jpg)
 
      
    
