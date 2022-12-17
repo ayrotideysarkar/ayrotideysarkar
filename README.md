@@ -10,11 +10,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p>
 
 
- 
-
-<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-
-<img align="right" alt="coding" width="300" src=https://user-images.githubusercontent.com/76876452/201290878-01cfb000-bec8-4116-b478-e67710c3622e.png>
+ ![WhatsApp Video 2022-12-17 at 12 41 21 AM]<img align="right" src="https://user-images.githubusercontent.com/76876452/208225543-0c48051f-2816-44d6-9232-f1a396c5e793.gif">
 
 - 🌱 I’m currently learning **About Everything**🤣🐰
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
@@ -30,6 +26,8 @@
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/@ayrotid) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@ayroti) 
  
+ <img align="left" alt="coding" width="300" src=https://user-images.githubusercontent.com/76876452/201290878-01cfb000-bec8-4116-b478-e67710c3622e.png>
+
 
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
  
@@ -42,6 +40,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
+
+
+ 
+
 
 # 👩‍💻 Coding Platform:
 
@@ -58,6 +61,10 @@
  
      
 [![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=nightowl)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
+     
+     
+     
+ <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
      
      
      
@@ -78,7 +85,7 @@
      
 ### 🎧 Music Time  :
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)![WhatsApp Video 2022-12-17 at 12 41 21 AM](https://user-images.githubusercontent.com/76876452/208225543-0c48051f-2816-44d6-9232-f1a396c5e793.gif)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
      
      
