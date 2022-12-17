@@ -10,7 +10,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p>
 
 
- ![WhatsApp Video 2022-12-17 at 12 41 21 AM]<img align="right" src="https://user-images.githubusercontent.com/76876452/208225543-0c48051f-2816-44d6-9232-f1a396c5e793.gif">
+ <img align="right" src="https://user-images.githubusercontent.com/76876452/208225543-0c48051f-2816-44d6-9232-f1a396c5e793.gif">
 
 - 🌱 I’m currently learning **About Everything**🤣🐰
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
