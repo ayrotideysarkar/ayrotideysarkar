@@ -43,9 +43,6 @@
 
 
 
- 
-
-
 # 👩‍💻 Coding Platform:
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
@@ -62,14 +59,11 @@
      
 [![Ayroti's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=nightowl)](https://github.com/ayrotideysarkar/github-readme-activity-graph)
      
-     
-     
- <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
-     
-     
+         
      
 ### ✍️ Random Dev Quote :
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+     
      
      
 ### 🤣 Random Jokes :
