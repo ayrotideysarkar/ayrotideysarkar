@@ -26,9 +26,6 @@
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/@ayrotid) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@ayroti) 
  
- <img align="left" alt="coding" width="300" src=https://user-images.githubusercontent.com/76876452/201290878-01cfb000-bec8-4116-b478-e67710c3622e.png>
-
-
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
  
 # 💻 Tech Stack:
@@ -52,7 +49,8 @@
     <a href="https://github.com/ayrotideysarkar/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ayroti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&theme=black-ice&hide_border=false&stroke=0000&background=330D48"/>
          
-<img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48">
+<img src="https://github-readme-stats.vercel.app/api?username=ayrotideysarkar&&show_icons=true&title_color=ffffff&icon_color=FF5F1F&text_color=daf7dc&bg_color=330D48"><img align="right" alt="coding" width="300" src=https://user-images.githubusercontent.com/76876452/201290878-01cfb000-bec8-4116-b478-e67710c3622e.png>
+
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayrotideysarkar&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
