@@ -19,7 +19,7 @@
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
 - 📫 Reach me 
-  **ayrotideysarkar.techie@gmail.com**✉️                        
+  **ayrotideysarkar04@gmail.com**✉️                        
 - ⚡ Fun fact **I think I am an Extremist**💫
 
 
