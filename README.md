@@ -48,7 +48,11 @@
 <img src="https://media.tenor.com/J4WA4IXVeBQAAAAC/love-you.gif" width="70">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#👩🏻‍💻Coding Platform: <img src="https://media.tenor.com/nzuZ147_MbwAAAAC/honkai-laptop.gif" width="80">
+
+
+
+     
+## 👩🏻‍💻 Coding Platform: <img src="https://media.tenor.com/nzuZ147_MbwAAAAC/honkai-laptop.gif" width="80">
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://app.datacamp.com/profile/ayroti123)
