@@ -108,8 +108,6 @@
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/ayrotideysarkar/ayrotideysarkar/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
-     
-![ayrotideysarkars snake gif](https://github.com/ayrotideysarkar/ayrotideysarkar/blob/output/github-contribution-grid-snake.svg)
 
 
      
