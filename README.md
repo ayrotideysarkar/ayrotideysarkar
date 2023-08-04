@@ -39,11 +39,8 @@
 
 
 
-
-[![An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
-
 <div style="display: inline-block; width: 200px;">
-    [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
+[![An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
 </div>
 
  
