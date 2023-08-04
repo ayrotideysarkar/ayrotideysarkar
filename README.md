@@ -14,7 +14,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p>
 
 
- <img align="right" src="https://user-images.githubusercontent.com/76876452/208928787-1761df42-7cbe-4e0f-89fd-2d7839a72e7a.gif">
 
 - 🌱 I’m currently learning **About Everything**🤣🐰
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
