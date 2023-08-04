@@ -6,8 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=26&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
 **I'm Ayroti, a passionate Girl techie 👩‍💻 from India and New to Opensource  🚀**
-<img src="https://media.tenor.com/J4WA4IXVeBQAAAAC/love-you.gif" width="200">
-  
+
  
  
 
@@ -49,7 +48,7 @@
 <img src="https://media.tenor.com/J4WA4IXVeBQAAAAC/love-you.gif" width="70">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# 👩‍💻 Coding Platform:
+# <img src="https://media.tenor.com/nzuZ147_MbwAAAAC/honkai-laptop.gif" width="70">👩‍💻 Coding Platform:
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://app.datacamp.com/profile/ayroti123)
