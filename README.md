@@ -18,7 +18,7 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning **About Everything**🤣🐰
+- 🌱 I’m currently learning **About Everything**🤣🐰 <img src="https://media.tenor.com/J4WA4IXVeBQAAAAC/love-you.gif" width="70">
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
 - 📫 Reach me                                              
@@ -60,9 +60,8 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-<img src="https://media.tenor.com/J4WA4IXVeBQAAAAC/love-you.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+  
 
 
 
@@ -116,13 +115,7 @@
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
-  <table>
-  <tr>
-   <img src="https://media.tenor.com/HeQ-sRgkS8AAAAAC/fruits-basket-fruits-basket2019.gif" width="170">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </tr>
-
+ 
      
      
      
