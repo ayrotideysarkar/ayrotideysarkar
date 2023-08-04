@@ -18,9 +18,11 @@
 - 🌱 I’m currently learning **About Everything**🤣🐰
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
-- 📫 Reach me                                               <img align="right" src="https://media.tenor.com/HeQ-sRgkS8AAAAAC/fruits-basket-fruits-basket2019.gif" width="500">
+- 📫 Reach me                                              
   **ayrotideysarkar04@gmail.com**✉️                        
 - ⚡ Fun fact **I think I am an Extremist**💫
+
+   <img align="up-right" src="https://media.tenor.com/HeQ-sRgkS8AAAAAC/fruits-basket-fruits-basket2019.gif" width="500">
 
   
 
