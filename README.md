@@ -29,6 +29,8 @@
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrotideysarkar/) 
  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/@ayrotid) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@ayroti) 
+
+ <img src="https://media.tenor.com/HeQ-sRgkS8AAAAAC/fruits-basket-fruits-basket2019.gif" width="1000">
  
 [![@ayrotideysarkar's Holopin board](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
  
