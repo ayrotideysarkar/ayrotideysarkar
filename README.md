@@ -37,10 +37,11 @@
 
 
 
+
+
 [<a href="https://holopin.io/@ayrotideysarkar"><img src="https://holopin.me/ayrotideysarkar" alt="An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile" width="200px"></a>](https://holopin.io/@ayrotideysarkar)
 
 
-[![An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
 
  
 
