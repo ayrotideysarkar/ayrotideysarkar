@@ -22,7 +22,7 @@
   **ayrotideysarkar04@gmail.com**✉️                        
 - ⚡ Fun fact **I think I am an Extremist**💫
 
-  <img src="https://media.tenor.com/HeQ-sRgkS8AAAAAC/fruits-basket-fruits-basket2019.gif" width="1000">
+  <img src="https://media.tenor.com/HeQ-sRgkS8AAAAAC/fruits-basket-fruits-basket2019.gif" width="500">
 
 
 ## 🌐 Let's Connect🫱🏻‍🫲🏻😁:
