@@ -1,4 +1,4 @@
-<img align="center" src="[https://media.tenor.com/dW_R4ZdOLPsAAAAM/tohru-honda-stars.gif](https://media.tenor.com/WpgpebIj4_wAAAAC/stars-night.gif)" width="400">
+<img src="[https://media.tenor.com/dW_R4ZdOLPsAAAAM/tohru-honda-stars.gif](https://media.tenor.com/WpgpebIj4_wAAAAC/stars-night.gif)" width="400">
 ![ezgif com-gif-maker (3) (2)](https://user-images.githubusercontent.com/76876452/207584429-e73c32c0-7567-46bd-9976-0830be9f2ce0.gif)
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
 ![ezgif com-gif-maker (3) (2)](https://user-images.githubusercontent.com/76876452/207584429-e73c32c0-7567-46bd-9976-0830be9f2ce0.gif)
