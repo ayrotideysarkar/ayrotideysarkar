@@ -15,9 +15,6 @@
 
 <img align="right" src="https://media.tenor.com/J8k9GkmMiM8AAAAd/tohru.gif" width="400" style="float: right; margin: 10px 10px 0 0;">
 
-<br />
-<br />
-
 - 🌱 I’m currently learning **About Everything**🤣🐰 
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
