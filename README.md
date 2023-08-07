@@ -11,7 +11,7 @@
  
 
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p> <img src="https://media.tenor.com/J4WA4IXVeBQAAAAC/love-you.gif" width="70">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p> 
 
 <img align="right" src="https://media.tenor.com/J8k9GkmMiM8AAAAd/tohru.gif" width="400" style="float: right; margin: 10px 10px 0 0;">
 
