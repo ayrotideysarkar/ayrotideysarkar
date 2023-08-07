@@ -7,10 +7,7 @@
 
 **I'm Ayroti, a passionate Girl techie** <img src="https://media.tenor.com/YdTpw-54DXcAAAAM/pusheen-laptop.gif" width="50"> **from India and New to Opensource** <img src="https://media.tenor.com/tPBnsT1psUsAAAAi/wsb-rocket.gif" width="50">
 
- 
- 
 
- 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p> 
 
 <img align="right" src="https://media.tenor.com/dW_R4ZdOLPsAAAAM/tohru-honda-stars.gif" width="400">
@@ -31,16 +28,12 @@
 
 
 
+
 ## My Holopin Collection:
 
 [<a href="https://holopin.io/@ayrotideysarkar"><img src="https://holopin.me/ayrotideysarkar" alt="An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile" width="500px"></a>](https://holopin.io/@ayrotideysarkar)
 
 
-
- 
-
-
- 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -55,11 +48,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-  
-
-
-
-     
+    
 ## 👩🏻‍💻 Coding Platform: <img src="https://media.tenor.com/nzuZ147_MbwAAAAC/honkai-laptop.gif" width="80">
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
@@ -80,36 +69,19 @@
 
 </div>
 
-
-
-     
-         
      
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
      
      
-     
-     
   <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
      
-        
-     
-     
-     
-     
-     
+      
      
 ### 🤣 Random Jokes :
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
-     
-  
- 
-     
-  
-
-     
+          
      
 ### 🎧 Music Time  :
   
