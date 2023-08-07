@@ -13,7 +13,7 @@
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p> 
 
-<img align="right" src="https://64.media.tumblr.com/eddea30ec3617a7b2ff9bf2a5796dc3c/43616bea7a4ec3ff-33/s1280x1920/5a046e9841337689fb7b94c89c8cc228e7099d05.gif">
+<img align="right" src="https://64.media.tumblr.com/ef8d672c033d7e99d560b9fedb7da4ca/73a0b27bfd94a4c0-9a/s1280x1920/b49f081dbc321185bb830b087a927f86779b4194.gif">
 
 - 🌱 I’m currently learning **About Everything**🤣🐰 
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
