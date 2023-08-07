@@ -31,9 +31,9 @@
 
 
 
+## My Holopin Collection:
 
-
-[<a href="https://holopin.io/@ayrotideysarkar"><img src="https://holopin.me/ayrotideysarkar" alt="An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile" width="400px"></a>](https://holopin.io/@ayrotideysarkar)
+[<a href="https://holopin.io/@ayrotideysarkar"><img src="https://holopin.me/ayrotideysarkar" alt="An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile" width="600px"></a>](https://holopin.io/@ayrotideysarkar)
 
 
 
