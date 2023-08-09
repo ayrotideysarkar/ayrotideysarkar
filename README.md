@@ -63,7 +63,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrotideysarkar&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayrotideysarkar&theme=radical" width="389">
           
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayrotideysarkar&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" width="798" height="300">
+
           
 
 </div>
