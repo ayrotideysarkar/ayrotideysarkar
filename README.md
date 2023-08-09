@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=26&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
-**I'm Ayroti, a passionate Girl techie** <img src="https://media.tenor.com/YdTpw-54DXcAAAAM/pusheen-laptop.gif" width="50"> **from India and New to Opensource** <img src="https://media.tenor.com/tPBnsT1psUsAAAAi/wsb-rocket.gif" width="50">
+**I'm Ayroti, a passionate Girl techie** <img src="https://media.tenor.com/r50FNX_CLVcAAAAM/umaru.gif" width="50"> **from India and New to Opensource** <img src="https://media.tenor.com/tPBnsT1psUsAAAAi/wsb-rocket.gif" width="50">
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p> 
