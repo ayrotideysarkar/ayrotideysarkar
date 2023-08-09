@@ -13,8 +13,8 @@
 
 <img align="right" src="https://media.tenor.com/dW_R4ZdOLPsAAAAM/tohru-honda-stars.gif" width="400">
 
-- 🌱 I’m currently learning **About Everything**🤣<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="40" height="40" />"
-- 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
+- 🌱 I’m currently learning **About Everything**🤣<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="40" height="40" />
+- 💬 Ask me about **Kdrama, Cdrama, Anime** <img src="<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />" alt="bear Face" width="40" height="40" />
 - 👩‍🎨 I'm an **Artist** 🐥
 - 📫 Reach me                                              
   **ayrotideysarkar04@gmail.com**✉️                        
