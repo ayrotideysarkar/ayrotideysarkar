@@ -1,4 +1,5 @@
 ![wallpaperflare com_wallpaper (2) (1)](https://user-images.githubusercontent.com/76876452/206988610-614a04a9-da0d-4725-8bb3-ef7fab9cb7d6.jpg)
+
 ![ezgif com-gif-maker (3) (2)](https://user-images.githubusercontent.com/76876452/207584429-e73c32c0-7567-46bd-9976-0830be9f2ce0.gif)
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
 ![ezgif com-gif-maker (3) (2)](https://user-images.githubusercontent.com/76876452/207584429-e73c32c0-7567-46bd-9976-0830be9f2ce0.gif)
@@ -12,7 +13,8 @@
 
 <img align="right" src="https://media.tenor.com/dW_R4ZdOLPsAAAAM/tohru-honda-stars.gif" width="400">
 
-- 🌱 I’m currently learning **About Everything**🤣🐰 
+- 🌱 I’m currently learning **About Everything**🤣<img
+  src="<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="25" height="25" />"
 - 💬 Ask me about **Kdrama, Cdrama, Anime**🐻
 - 👩‍🎨 I'm an **Artist** 🐥
 - 📫 Reach me                                              
