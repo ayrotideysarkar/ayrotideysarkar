@@ -70,7 +70,7 @@
 </div>
 
      
-### ✍️ Random Dev Quote :
+###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
      
      
