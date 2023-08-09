@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=26&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
-**I'm Ayroti, a passionate Girl techie** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="40" height="40" />**from India and New to Opensource** <img src="https://media.tenor.com/tPBnsT1psUsAAAAi/wsb-rocket.gif" width="50">
+**I'm Ayroti, a passionate Girl techie** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="40" height="40" />**from India and New to Opensource** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayrotideysarkar&label=Profile%20views&color=FF007F&style=flat" alt="ayrotideysarkar" /> </p> 
