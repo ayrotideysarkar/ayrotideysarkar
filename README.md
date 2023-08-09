@@ -31,6 +31,7 @@
 
 
 ## My Holopin Collection:
+-----------------------------------
 [<a href="https://holopin.io/@ayrotideysarkar"><img src="https://holopin.me/ayrotideysarkar" alt="An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile" width="400px"></a>](https://holopin.io/@ayrotideysarkar)
 
 
@@ -49,12 +50,13 @@
 
 
     
-## 👩🏻‍💻 Coding Platform: <img src="https://media.tenor.com/nzuZ147_MbwAAAAC/honkai-laptop.gif" width="80">
+## 👩🏻‍💻 Coding Platform <img src="https://media.tenor.com/nzuZ147_MbwAAAAC/honkai-laptop.gif" width="80">:
+------------------
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://app.datacamp.com/profile/ayroti123)
 
- ## My Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" /> :
+ ## My Github Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" />:
 
 <div align="center">
           
@@ -63,9 +65,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayrotideysarkar&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayrotideysarkar&theme=radical" width="389"><br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayrotideysarkar&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayrotideysarkar&theme=radical" width="389">
-          
-
-          
+                   
 
 </div>
 
