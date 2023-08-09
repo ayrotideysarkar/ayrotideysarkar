@@ -81,7 +81,7 @@
      
       
      
-### 🤣 Random Jokes :
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" alt="Face with Tears of Joy" width="40" height="40" /> Random Jokes :
 ------------------------------------------------------------------------
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
