@@ -15,9 +15,11 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="40" height="40" /> I’m currently learning **About Everything**🤣<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit%20Face.png" alt="Rabbit Face" width="40" height="40" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="40" height="40" /> Ask me about **Kdrama, Cdrama, Anime** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="40" height="40" />
+- I am an artist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Artist%20Medium-Light%20Skin%20Tone.png" alt="Woman Artist Medium-Light Skin Tone" width="40" height="40" />
 - 📫 Reach me                                              
   **ayrotideysarkar04@gmail.com**✉️                       
 - ⚡ Fun fact **I think I am an Extremist**💫
+  
   
 
 ## 🌐 Let's Connect🫱🏻‍🫲🏻😁:
