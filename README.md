@@ -1,4 +1,4 @@
-![212750996-938b257b-266c-45a7-9af7-655341c0f58b](https://github.com/ayrotideysarkar/ayrotideysarkar/assets/76876452/dcbe4dc3-0e8b-419b-8914-e374fc1ad9f1)
+![212750996-938b257b-266c-45a7-9af7-655341c0f58b (1)](https://github.com/ayrotideysarkar/ayrotideysarkar/assets/76876452/4f3f2f8a-dd9f-40ee-b894-9dfbf1dcbe8d)
 
 
 
