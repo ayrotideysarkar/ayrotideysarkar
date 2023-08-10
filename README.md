@@ -1,7 +1,3 @@
-![212750996-938b257b-266c-45a7-9af7-655341c0f58b (1)](https://github.com/ayrotideysarkar/ayrotideysarkar/assets/76876452/4f3f2f8a-dd9f-40ee-b894-9dfbf1dcbe8dwidth="1000")
-
-
-
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ayrotideysarkar/ayrotideysarkar/assets/76876452/66749846-ab03-497a-b0b7-31cee346ca75)
 ![ezgif com-gif-maker (3) (2)](https://user-images.githubusercontent.com/76876452/207584429-e73c32c0-7567-46bd-9976-0830be9f2ce0.gif)
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
