@@ -2,11 +2,10 @@
 ![ezgif com-gif-maker (3) (2)](https://user-images.githubusercontent.com/76876452/207584429-e73c32c0-7567-46bd-9976-0830be9f2ce0.gif)
 ![greeting (1)](https://user-images.githubusercontent.com/76876452/205843083-caddbed9-93a1-4503-9a87-5e17b7d1c8e4.gif)
 ![ezgif com-gif-maker (3) (2)](https://user-images.githubusercontent.com/76876452/207584429-e73c32c0-7567-46bd-9976-0830be9f2ce0.gif)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=FF1493&size=26&width=500&lines=I+am+Ayroti+an+aspiring+data-analyst;Looking+for+new+opportunities;Nice+to+meet+you+guys+😊...)](https://git.io/typing-svg)
 
 
-
+### 🎧 Music Time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> :
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 **I'm Ayroti, a passionate Girl techie** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Woman Technologist Medium-Light Skin Tone" width="40" height="40" />**from India and New to Opensource** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
@@ -90,10 +89,7 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
           
      
-### 🎧 Music Time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="40" height="40" /> :
-------------------------------------------------------------------
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
 
   ![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/ayrotideysarkar/ayrotideysarkar/assets/76876452/00561855-0709-4382-a1ce-004946486e34)
 
