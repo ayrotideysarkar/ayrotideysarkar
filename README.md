@@ -91,6 +91,9 @@
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
+  ![212284136-03988914-d899-44b4-b1d9-4eeccf656e44](https://github.com/ayrotideysarkar/ayrotideysarkar/assets/76876452/00561855-0709-4382-a1ce-004946486e34)
+
+
  
      
      
