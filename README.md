@@ -32,7 +32,7 @@
 
 
 
-## My Holopin Collection:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="40" height="40" /> My Holopin Collection:
 -----------------------------------
 [<a href="https://holopin.io/@ayrotideysarkar"><img src="https://holopin.me/ayrotideysarkar" alt="An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile" width="400px"></a>](https://holopin.io/@ayrotideysarkar)
 
