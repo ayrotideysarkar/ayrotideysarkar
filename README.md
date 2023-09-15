@@ -53,7 +53,7 @@
 
 
     
-## 👩🏻‍💻 Coding Platform <img src="https://media.tenor.com/nzuZ147_MbwAAAAC/honkai-laptop.gif" width="80">:
+## 👩🏻‍💻 Coding Platform <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="80"> :
 ------------------
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
