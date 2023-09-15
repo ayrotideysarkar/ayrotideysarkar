@@ -53,7 +53,7 @@
 
 
     
-## 👩🏻‍💻 Coding Platform ![coder](https://github.com/ayrotideysarkar/ayrotideysarkar/assets/76876452/8e915139-8201-4e6e-905b-2c1f28705a63) :
+## 👩🏻‍💻 Coding Platform <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="60" /> :
 ------------------
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ayroti_deysa_18)
