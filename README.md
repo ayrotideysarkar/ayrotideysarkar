@@ -34,7 +34,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="40" height="40" /> My Holopin Collection:
 
-[<a href="https://holopin.io/@ayrotideysarkar"><img src="https://holopin.io/@ayrotideysarkar" alt="An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile" width="400px"></a>](https://holopin.io/@ayrotideysarkar)
+[![An image of @ayrotideysarkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayrotideysarkar)](https://holopin.io/@ayrotideysarkar)
+
+
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" /> Tech Stack:
